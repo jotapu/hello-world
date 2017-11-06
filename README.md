@@ -1,2 +1,3 @@
 # hello-world
-Hello-wrold test
+Hello-world test
+Hi . I am Jouni Pussinen
